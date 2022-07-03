@@ -8,3 +8,5 @@
 QiuYeY/QiuYeY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![2](https://user-images.githubusercontent.com/108193788/177034322-9984ed68-8410-4073-b484-5028bbbf2f30.png)
+✨我现在正在学习数据分析【前篇】
